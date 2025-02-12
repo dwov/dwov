@@ -1,6 +1,6 @@
 ## Hi there, I'm David 👋
 
-I'm a Computer Science student passionate about building software and exploring cloud technologies. Currently, I'm working on [Project Name] and learning full-stack development.
+I'm a Computer Science student passionate about building software and exploring new technologies. Currently, I'm working on my bachelors thesis about energy supply for IoT sensors.
 <!--
 **dwov/dwov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
