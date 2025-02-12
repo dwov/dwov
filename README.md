@@ -1,5 +1,7 @@
 ## Hi there 👋
+# Hi, I'm David 👋
 
+I'm a Computer Science student passionate about building software and exploring cloud technologies. Currently, I'm working on [Project Name] and learning full-stack development.
 <!--
 **dwov/dwov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
