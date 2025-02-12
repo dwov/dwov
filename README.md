@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm David 👋
+## Hi there, I'm David 👋
 
 I'm a Computer Science student passionate about building software and exploring cloud technologies. Currently, I'm working on [Project Name] and learning full-stack development.
 <!--
